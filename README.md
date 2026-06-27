@@ -36,10 +36,12 @@ A collection of LeetCode questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/manushreshtha/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/manushreshtha/DSA/tree/master/0402-remove-k-digits) |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -92,4 +94,20 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
+## Sorting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
