@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/manushreshtha/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -114,4 +115,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/manushreshtha/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/manushreshtha/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
