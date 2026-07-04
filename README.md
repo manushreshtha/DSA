@@ -51,12 +51,14 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/manushreshtha/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manushreshtha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
