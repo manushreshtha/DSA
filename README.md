@@ -35,6 +35,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manushreshtha/DSA/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/manushreshtha/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/manushreshtha/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Array
