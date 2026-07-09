@@ -49,6 +49,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/manushreshtha/DSA/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -131,4 +133,12 @@ A collection of LeetCode questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manushreshtha/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/manushreshtha/DSA/tree/master/1539-kth-missing-positive-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
