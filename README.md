@@ -48,6 +48,7 @@ A collection of LeetCode questions
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manushreshtha/DSA/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -136,6 +137,7 @@ A collection of LeetCode questions
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manushreshtha/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
