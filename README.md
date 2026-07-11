@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/manushreshtha/DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions
 | [0050-powx-n](https://github.com/manushreshtha/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1922-count-good-numbers](https://github.com/manushreshtha/DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
