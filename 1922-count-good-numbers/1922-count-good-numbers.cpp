@@ -7,9 +7,9 @@ public:
         return (power(5,even)*power(4,odd))%MOD;
     }
     long long power(long long num, long long n){
-    if(n==0) return 1;
-    long long half = power(num, n/2);
-    if(n%2==0) return (half * half)%MOD;
-    return (num * half * half)%MOD;
+        if(n==0) return 1;
+        long long half = power(num, n/2);
+        if(n%2==0) return (half * half)%MOD;
+        return (num * half * half)%MOD;
     }
 };
