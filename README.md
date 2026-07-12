@@ -66,6 +66,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manushreshtha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -150,5 +151,10 @@ A collection of LeetCode questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
