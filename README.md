@@ -39,6 +39,7 @@ A collection of LeetCode questions
 | [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/manushreshtha/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,8 +154,10 @@ A collection of LeetCode questions
 | ------- |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
