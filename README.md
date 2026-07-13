@@ -70,6 +70,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manushreshtha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manushreshtha/DSA/tree/master/0503-next-greater-element-ii) |
@@ -153,11 +154,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
