@@ -36,6 +36,7 @@ A collection of LeetCode questions
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/manushreshtha/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/manushreshtha/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/manushreshtha/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
