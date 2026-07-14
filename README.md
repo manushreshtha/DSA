@@ -31,6 +31,7 @@ A collection of LeetCode questions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/manushreshtha/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manushreshtha/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/manushreshtha/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/manushreshtha/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/manushreshtha/DSA/tree/master/1922-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions
 | [0907-sum-of-subarray-minimums](https://github.com/manushreshtha/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/manushreshtha/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/manushreshtha/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/manushreshtha/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/manushreshtha/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/manushreshtha/DSA/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/manushreshtha/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions
 | [0050-powx-n](https://github.com/manushreshtha/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/manushreshtha/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/manushreshtha/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/manushreshtha/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/manushreshtha/DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
