@@ -36,6 +36,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/manushreshtha/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manushreshtha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/manushreshtha/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manushreshtha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/manushreshtha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
