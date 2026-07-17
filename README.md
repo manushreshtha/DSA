@@ -63,6 +63,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/manushreshtha/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
