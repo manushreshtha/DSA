@@ -63,6 +63,7 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manushreshtha/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manushreshtha/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manushreshtha/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
