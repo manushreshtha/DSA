@@ -77,6 +77,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/manushreshtha/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manushreshtha/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/manushreshtha/DSA/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/manushreshtha/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manushreshtha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/manushreshtha/DSA/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/manushreshtha/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
