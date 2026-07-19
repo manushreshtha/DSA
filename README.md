@@ -43,6 +43,7 @@ A collection of LeetCode questions
 | [0402-remove-k-digits](https://github.com/manushreshtha/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
+| [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Linked List
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
+| [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Number Theory
 |  |
 | ------- |
