@@ -44,6 +44,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/manushreshtha/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
 | [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/manushreshtha/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
