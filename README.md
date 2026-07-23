@@ -52,6 +52,7 @@ A collection of LeetCode questions
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/manushreshtha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manushreshtha/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -93,6 +94,7 @@ A collection of LeetCode questions
 | [0283-move-zeroes](https://github.com/manushreshtha/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manushreshtha/DSA/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/manushreshtha/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/manushreshtha/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/manushreshtha/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/manushreshtha/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/manushreshtha/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/manushreshtha/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
