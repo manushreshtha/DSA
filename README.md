@@ -93,6 +93,7 @@ A collection of LeetCode questions
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0216-combination-sum-iii](https://github.com/manushreshtha/DSA/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/manushreshtha/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/manushreshtha/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manushreshtha/DSA/tree/master/0503-next-greater-element-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions
 | [0047-permutations-ii](https://github.com/manushreshtha/DSA/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/manushreshtha/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/manushreshtha/DSA/tree/master/0216-combination-sum-iii) |
 | [0784-letter-case-permutation](https://github.com/manushreshtha/DSA/tree/master/0784-letter-case-permutation) |
 | [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
 ## Number Theory
