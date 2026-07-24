@@ -49,6 +49,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/manushreshtha/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/manushreshtha/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manushreshtha/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/manushreshtha/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions
 | [0085-maximal-rectangle](https://github.com/manushreshtha/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/manushreshtha/DSA/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manushreshtha/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/manushreshtha/DSA/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/manushreshtha/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/manushreshtha/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/manushreshtha/DSA/tree/master/0283-move-zeroes) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions
 | [0015-3sum](https://github.com/manushreshtha/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/manushreshtha/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/manushreshtha/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/manushreshtha/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manushreshtha/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -161,6 +164,7 @@ A collection of LeetCode questions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manushreshtha/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manushreshtha/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/manushreshtha/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1079-letter-tile-possibilities](https://github.com/manushreshtha/DSA/tree/master/1079-letter-tile-possibilities) |
@@ -216,4 +220,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/manushreshtha/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manushreshtha/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
